@@ -39,4 +39,4 @@ Launch example
 
 
 ## License
-Project sources distributed under MIT license
+Project sources distributed under [MIT license](https://github.com/arssivka/robocup_gamectrl/blob/master/LICENSE).
