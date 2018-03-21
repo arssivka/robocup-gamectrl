@@ -3,7 +3,7 @@
 ## Overview
 
 This simple client allows to receive messages from game controller server and
-sent alive and manual penalize messages back.
+send alive and manual penalise messages back.
 
 You can find usage example in appropriate folder. This client is developed for
 Darwin OP but it can work in another hardware. Also you can change
